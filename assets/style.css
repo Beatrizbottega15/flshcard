@@ -1,10 +1,12 @@
 body {
-    background-color:rgb(222, 19, 253);
+    background-color:rgb(255, 106, 176);
     font-family: bai Jamjuree;
 }
-
+#container {
+    display:flex ;
+}
 footer {
-background-color: rgb(152, 8, 175);
+background-color: rgb(231, 25, 121);
 color: white;
 bottom:0;
 position:fixed;
