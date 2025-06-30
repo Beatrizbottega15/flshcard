@@ -8,10 +8,12 @@ body {
     background: url('img/bg-desktop.webp');
     font-family: bai Jamjuree;
 }
-#container {
-    display:flex ;
 
+#container {
+display:flex ;
 }
+
+
 .cartao {
 margin: 1rem 1rem;
 background-color: rgb(176, 45, 67);
