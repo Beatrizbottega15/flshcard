@@ -1,5 +1,5 @@
 criaCartao(
-    'Programação',
+    'matemática',
     'como é a fórmula de bhaskara?',
     'x = (-b ± √(b² - 4ac)) / 2a'
 )
@@ -11,7 +11,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
+    'Português',
     'o que significa substantivo?',
     'é a classe gramatical que dá nome a seres, coisas, espaços, sentimentos etc'
 )
