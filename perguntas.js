@@ -1,22 +1,22 @@
 criaCartao(
-    'matemática',
-    'como é a fórmula de bhaskara?',
+    'Matemática',
+    'Como é a fórmula de bhaskara?',
     'x = (-b ± √(b² - 4ac)) / 2a'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital do rio de janeiro?',
-    'A capital do rio de janeiro é rio de janeiro'
+    'Qual a capital do Rio de Janeiro?',
+    'A capital do Rio de Janeiro é Rio de Janeiro'
 )
 
 criaCartao(
     'Português',
-    'o que significa substantivo?',
-    'é a classe gramatical que dá nome a seres, coisas, espaços, sentimentos etc'
+    'O que significa substantivo?',
+    'É a classe gramatical que dá nome a seres, coisas, espaços, sentimentos etc'
 )
     criaCartao(
     'Lingua inglesa',
     'Como se diz vergonha em inglês?',
-    'vergonha em ingles é shame'
+    'Vergonha em ingles é shame'
 )
