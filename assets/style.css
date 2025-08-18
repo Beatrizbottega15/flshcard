@@ -1,5 +1,5 @@
 :root {
---text-color: #ffffff;
+--text-color: #03fabc;
 --card-front-color: #017ff5;
 --card-back-color: #0136c5;
 }
@@ -103,7 +103,7 @@ margin-top: 0,5rem;
 @media (max-width: 560px) {
 
     body {
-        background: url('bg-mobile.webp');
+        background: url('beatriz.avif');
     }
     .cartao {
         flex: 1 0 calc(100% - 1rem);
